@@ -25,5 +25,6 @@ public class Question2 {
      }
      int result = solve( n, q, cost);
      System.out.println(result);
+     sc.close();
     }
 }
