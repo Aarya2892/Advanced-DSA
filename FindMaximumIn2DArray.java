@@ -22,5 +22,6 @@ public class FindMaximumIn2DArray {
         }
         int result = solve(n, array);
         System.out.println(result);
+        sc.close();
     }
 }
