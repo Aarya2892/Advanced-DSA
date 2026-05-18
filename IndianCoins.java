@@ -1,3 +1,5 @@
+// how much coins we required to get the mentioned amount
+
 import java.util.*;
 public class IndianCoins {
     public static int CoinCount(int Amount, int Coins[]){
